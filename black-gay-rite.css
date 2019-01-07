@@ -1,0 +1,1 @@
+.gr-change-list-item-0[needs-review] > td.subject a.gr-change-list-item::before{content: "\2022 "; color: #f56b2a; font-size: 15px;}
